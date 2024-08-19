@@ -1,6 +1,6 @@
 {
   "name": "wasm-x7-hash",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "WASM JS binding for X7 hashing algorithm",
   "main": "lib/x7.js",
   "scripts": {
