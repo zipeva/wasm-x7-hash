@@ -1,8 +1,8 @@
 {
-  "name": "wasm-x11-hash",
+  "name": "wasm-x7-hash",
   "version": "0.0.2",
-  "description": "WASM JS binding for X11 hashing algorithm",
-  "main": "lib/x11.js",
+  "description": "WASM JS binding for X7 hashing algorithm",
+  "main": "lib/x7.js",
   "scripts": {
     "build": "scripts/build.sh",
     "lint": "eslint .",
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashevo/wasm-x11-hash.git"
+    "url": "git+https://github.com/zipeva/wasm-x7-hash.git"
   },
   "keywords": [
-    "x11",
-    "dash",
+    "x7",
+    "zip",
     "hash",
     "256",
     "crypto",

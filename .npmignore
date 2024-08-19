@@ -4,4 +4,4 @@ node_modules
 scripts
 
 # Do not publish C code
-lib/x11
+lib/x7
